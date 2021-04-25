@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.Section-1{
+    font-family: 'Orbitron', sans-serif;
+    background-image: linear-gradient(black,white);
+    min-height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock{
+    background-color: black;
+    width:620px;
+    height:190px;
+    color: red;
+    text-align: center; 
+    padding: 40px;
+    border: 8px groove whitesmoke;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.8);  
+}
+
+#Digital-Clock{
+    font-size:70px;
+}
+
+.calender{
+    font-size: 25px!important;
+    background-color: ;
+}
+
+
+
+
